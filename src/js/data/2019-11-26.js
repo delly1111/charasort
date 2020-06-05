@@ -67,15 +67,15 @@ dataSet[dataSetVersion].options = [
 
 dataSet[dataSetVersion].characterData = [
   {
-    name: "Hakurei Reimu",
-    img: "c5DqpgX.png",
+    name: "Jesus Of Surburbia",
+    img: "",
     opts: {
       series: [ "book", "EoSD", "PCB", "IaMP", "IN", "PoFV", "StB", "SWR", "MoF", "SA", "UFO", "soku", "DS", "TD", "HM", "DDC", "ISC", "ULiL", "LoLK", "AoCF", "HSiFS", "VD", "WBaWC" ],
       stage: ["st4"]
     }
   },
   {
-    name: "Kirisame Marisa",
+    name: "Ocean Avenue",
     img: "tJnkSzK.png",
     opts: {
       series: [ "book", "EoSD", "PCB", "IaMP", "IN", "PoFV", "StB", "SWR", "MoF", "SA", "UFO", "soku", "DS", "GFW", "TD", "HM", "DDC", "ISC", "ULiL", "LoLK", "AoCF", "HSiFS", "VD", "WBaWC" ],
@@ -83,7 +83,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Rumia",
+    name: "Only In Dreams",
     img: "0YT7QlS.png",
     opts: {
       series: ["book", "EoSD", "StB", "HM"],
@@ -91,7 +91,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Daiyousei",
+    name: "Deacon Blues",
     img: "NWlZud3.png",
     opts: {
       series: ["book", "EoSD"],
@@ -100,7 +100,7 @@ dataSet[dataSetVersion].characterData = [
     },
   },
   {
-    name: "Cirno",
+    name: "Time",
     img: "qdveFSy.png",
     opts: {
       series: [ "book", "EoSD", "PCB", "PoFV", "StB", "soku", "GFW", "HM", "DDC", "ISC", "HSiFS" ],
@@ -108,7 +108,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Hong Meiling",
+    name: "Learn To Fly",
     img: "ptGp0x4.png",
     opts: {
       series: ["book", "EoSD", "IaMP", "StB", "soku"],
@@ -116,7 +116,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Koakuma",
+    name: "How Deep Is Your Love",
     img: "vBKdDm4.png",
     opts: {
       series: ["book", "EoSD"],
@@ -125,7 +125,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Patchouli Knowledge",
+    name: "Scenes From An Italian Restaurant",
     img: "A7ZnuHo.png",
     opts: {
       series: ["book", "EoSD", "IaMP", "StB", "SWR", "soku", "HM"],
@@ -133,7 +133,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Izayoi Sakuya",
+    name: "Human Nature",
     img: "sgZPf11.png",
     opts: {
       series: [ "book", "EoSD", "PCB", "IaMP", "IN", "PoFV", "StB", "SWR", "soku", "HM", "DDC", "ISC" ],
@@ -141,7 +141,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Remilia Scarlet",
+    name: "Under Pressure",
     img: "8UX7hKE.png",
     opts: {
       series: ["book", "EoSD", "IaMP", "IN", "StB", "SWR", "soku", "HM", "ISC", "VD"],
@@ -149,7 +149,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Flandre Scarlet",
+    name: "Every Little Thing She Does Is Magic",
     img: "OhaDcnc.png",
     opts: {
       series: ["book", "EoSD", "StB", "VD"],
@@ -157,7 +157,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Letty Whiterock",
+    name: "Lent",
     img: "MgzqjFK.png",
     opts: {
       series: ["book", "PCB", "StB", "HM"],
@@ -165,7 +165,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Chen",
+    name: "Forever Young",
     img: "ohmetZh.png",
     opts: {
       series: ["book", "PCB", "IaMP", "StB", "SWR", "soku", "HM"],
@@ -173,7 +173,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Alice Margatroid",
+    name: "Don't Stop Believeing",
     img: "aDIf0pN.png",
     opts: {
       series: ["book", "PCB", "IaMP", "IN", "StB", "SWR", "soku", "HM"],
@@ -181,7 +181,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Lily White",
+    name: "Beast Of Burden",
     img: "2Pr8b2N.png",
     opts: {
       series: ["book", "PCB", "PoFV", "HM", "HSiFS"],
@@ -189,7 +189,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Lunasa Prismriver",
+    name: "Electric Feel",
     img: "htOMdDQ.png",
     opts: {
       series: ["book", "PCB", "PoFV", "HM", "AoCF"],
@@ -197,7 +197,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Merlin Prismriver",
+    name: "Ocean Breathes Salty",
     img: "PrRPujP.png",
     opts: {
       series: ["book", "PCB", "PoFV", "HM", "AoCF"],
@@ -205,7 +205,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Lyrica Prismriver",
+    name: "What's Up?",
     img: "ze79bFC.png",
     opts: {
       series: ["book", "PCB", "PoFV", "HM", "AoCF"],
@@ -213,7 +213,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Konpaku Youmu",
+    name: "Sooner Or Later",
     img: "WMjyRLJ.png",
     opts: {
       series: [ "book", "PCB", "IaMP", "IN", "PoFV", "StB", "SWR", "soku", "TD", "HM", "ISC", "WBaWC" ],
@@ -221,7 +221,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Saigyouji Yuyuko",
+    name: "Hemorrhage (In My Hands)",
     img: "VT9mTGb.png",
     opts: {
       series: [ "book", "PCB", "IaMP", "IN", "StB", "SWR", "soku", "TD", "HM", "ISC", "VD" ],
@@ -229,7 +229,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Yakumo Ran",
+    name: "Rocky Mountain High",
     img: "rshnJPV.png",
     opts: {
       series: ["book", "PCB", "IaMP", "IN", "StB", "SWR", "soku", "HM", "VD"],
@@ -237,7 +237,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Yakumo Yukari",
+    name: "The World Has Turned And Left Me Here",
     img: "qsceD4I.png",
     opts: {
       series: [ "book", "PCB", "IaMP", "IN", "StB", "SWR", "soku", "HM", "ISC", "AoCF", "VD" ],
@@ -245,7 +245,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Ibuki Suika",
+    name: "In My Life",
     img: "pLdMjQ3.png",
     opts: {
       series: ["book", "IaMP", "StB", "SWR", "soku", "DS", "HM", "ISC", "VD"],
@@ -253,7 +253,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Wriggle Nightbug",
+    name: "Bittersweet Symphony",
     img: "8DLUAPf.png",
     opts: {
       series: ["book", "IN", "StB", "HM"],
@@ -261,7 +261,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Mystia Lorelei",
+    name: "10 Years",
     img: "6KyhLqE.png",
     opts: {
       series: ["book", "IN", "PoFV", "StB", "HM"],
@@ -269,7 +269,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Kamishirasawa Keine",
+    name: "Under The Bridge",
     img: "99w0Chm.png",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
@@ -277,7 +277,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Inaba Tewi",
+    name: "Wrapped Around Your Finger",
     img: "yqNfNje.png",
     opts: {
       series: ["book", "IN", "PoFV", "StB", "HM"],
@@ -285,7 +285,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Reisen Udongein Inaba",
+    name: "Will You Still Love Me Tomorrow",
     img: "PrYzRcC.png",
     opts: {
       series: ["book", "IN", "PoFV", "StB", "soku", "HM", "LoLK", "AoCF"],
@@ -293,7 +293,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Yagokoro Eirin",
+    name: "Hit The Road Jack",
     img: "ceo4DhK.png",
     opts: {
       series: ["book", "IN", "StB", "HM", "VD"],
@@ -301,7 +301,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Houraisan Kaguya",
+    name: "My Girl",
     img: "2YDuTk3.png",
     opts: {
       series: ["book", "IN", "StB", "HM", "VD"],
@@ -309,7 +309,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Fujiwara no Mokou",
+    name: "House Of The Rising Sun",
     img: "3zo4VKV.png",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC", "ULiL", "AoCF", "VD"],
@@ -317,7 +317,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Shameimaru Aya",
+    name: "Turn Turn Turn",
     img: "8TLXMST.png",
     opts: {
       series: [ "book", "PoFV", "StB", "SWR", "MoF", "soku", "HM", "ISC", "HSiFS" ],
@@ -325,7 +325,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Medicine Melancholy",
+    name: "Happy Together",
     img: "IImsp7K.png",
     opts: {
       series: ["book", "PoFV", "StB", "HM"],
@@ -333,7 +333,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Kazami Yuuka",
+    name: "A Day In The Life",
     img: "MZXJQq5.png",
     opts: {
       series: ["book", "PoFV", "StB", "HM"],
@@ -341,7 +341,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Onozuka Komachi",
+    name: "So Far Away",
     img: "aX4WIH8.png",
     opts: {
       series: ["book", "PoFV", "StB", "SWR", "soku", "HM"],
@@ -349,7 +349,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Shiki Eiki, Yamaxanadu",
+    name: "Stairway To Heaven",
     img: "nPBvatH.png",
     opts: {
       series: ["book", "PoFV", "StB", "HM", "VD"],
@@ -357,7 +357,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Aki Shizuha",
+    name: "Band On The Run",
     img: "3pDRgvR.png",
     opts: {
       series: ["MoF", "DS", "HM"],
@@ -365,7 +365,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Aki Minoriko",
+    name: "Come And Get Your Love",
     img: "bV0DaN7.png",
     opts: {
       series: ["MoF", "DS", "HM"],
@@ -373,7 +373,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Kagiyama Hina",
+    name: "Bohemian Rhapsody",
     img: "J11NjNj.png",
     opts: {
       series: ["MoF", "DS", "HM"],
@@ -381,7 +381,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Kawashiro Nitori",
+    name: "December 1963",
     img: "4Ufced2.png",
     opts: {
       series: ["MoF", "DS", "HM", "ISC", "ULiL", "AoCF"],
@@ -389,7 +389,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Inubashiri Momiji",
+    name: "Dont Fear The Reaper",
     img: "qGMjnYk.png",
     opts: {
       series: ["MoF", "DS", "ISC"],
@@ -397,7 +397,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Kochiya Sanae",
+    name: "Peace Of Mind",
     img: "ATTRSWU.png",
     opts: {
       series: ["MoF", "SA", "UFO", "soku", "DS", "TD", "HM", "ISC", "LoLK"],
@@ -405,7 +405,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Yasaka Kanako",
+    name: "Running On Empty",
     img: "nQ78Lz7.png",
     opts: {
       series: ["MoF", "soku", "DS", "HM", "ISC", "VD"],
@@ -413,7 +413,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Moriya Suwako",
+    name: "Heroes",
     img: "yJaD5ZV.png",
     opts: {
       series: ["MoF", "SA", "soku", "DS", "HM", "ISC", "VD"],
@@ -421,7 +421,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Nagae Iku",
+    name: "Lights",
     img: "xgAlECj.png",
     opts: {
       series: ["SWR", "soku", "DS", "HM", "VD"],
@@ -429,7 +429,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Hinanawi Tenshi",
+    name: "Rock With You",
     img: "tZLYivt.png",
     opts: {
       series: ["SWR", "soku", "DS", "HM", "ISC", "AoCF", "VD"],
@@ -437,7 +437,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Kisume",
+    name: "Comfortably Numb",
     img: "VgJgaEf.png",
     opts: {
       series: ["SA", "DS"],
@@ -445,7 +445,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Kurodani Yamame",
+    name: "Tom Sawyer",
     img: "sqgJ2St.png",
     opts: {
       series: ["SA", "DS", "HM"],
@@ -453,7 +453,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Mizuhashi Parsee",
+    name: "All Those Years Ago",
     img: "lkoAJod.png",
     opts: {
       series: ["SA", "DS", "HM"],
@@ -461,7 +461,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Hoshiguma Yuugi",
+    name: "I Ran",
     img: "tDO653L.png",
     opts: {
       series: ["SA", "DS", "HM"],
@@ -469,7 +469,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Komeiji Satori",
+    name: "True",
     img: "dup7Nt6.png",
     opts: {
       series: ["SA", "DS", "HM", "VD"],
@@ -477,7 +477,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Kaenbyou Rin (Orin)",
+    name: "Mr. Roboto",
     img: "uQjbw1W.png",
     opts: {
       series: ["SA", "DS", "HM"],
@@ -485,7 +485,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Reiuji Utsuho (Okuu)",
+    name: "While My Guitar Gently Weeps",
     img: "DfdaXPW.png",
     opts: {
       series: ["SA", "soku", "DS", "HM", "VD"],
@@ -493,7 +493,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Komeiji Koishi",
+    name: "Manic Monday",
     img: "wVCcens.png",
     opts: {
       series: ["SA", "DS", "HM", "ULiL", "AoCF", "VD"],
@@ -501,7 +501,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Nazrin",
+    name: "Story Of My Life",
     img: "EpHQbiY.png",
     opts: {
       series: ["UFO", "DS", "HM"],
@@ -509,7 +509,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Tatara Kogasa",
+    name: "November Rain",
     img: "kJbv4dc.png",
     opts: {
       series: ["UFO", "TD", "DS", "HM"],
@@ -517,7 +517,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Kumoi Ichirin",
+    name: "Come As You Are",
     img: "Fyn5yVx.png",
     opts: {
       series: ["UFO", "DS", "HM", "ULiL", "AoCF"],
@@ -525,7 +525,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Murasa Minamitsu",
+    name: "No Rain",
     img: "39KYpvW.png",
     opts: {
       series: ["UFO", "DS", "HM"],
@@ -533,7 +533,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Toramaru Shou",
+    name: "Far Behind",
     img: "5yihisu.png",
     opts: {
       series: ["UFO", "DS", "HM"],
@@ -541,7 +541,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Hijiri Byakuren",
+    name: "Run Around",
     img: "2ppPxny.png",
     opts: {
       series: ["UFO", "DS", "HM", "ISC", "ULiL", "AoCF", "VD"],
@@ -549,7 +549,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Houjuu Nue",
+    name: "Tomorrow",
     img: "zL4S8Mj.png",
     opts: {
       series: ["UFO", "DS", "TD", "HM", "VD"],
@@ -557,7 +557,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Himekaidou Hatate",
+    name: "Talking Shit About A Pretty Sunset",
     img: "LgvoTaJ.png",
     opts: {
       series: ["DS", "HM", "ISC"],
@@ -565,7 +565,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Sunny Milk",
+    name: "My Hero",
     img: "VbqXiB6.png",
     opts: {
       series: ["book", "GFW", "HM"],
@@ -573,7 +573,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Luna Child",
+    name: "Cowboy Dan",
     img: "OBqgP48.png",
     opts: {
       series: ["book", "GFW", "HM"],
@@ -581,7 +581,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Star Sapphire",
+    name: "Semi Charmed Life",
     img: "sNw61ap.png",
     opts: {
       series: ["book", "GFW", "HM"],
@@ -589,7 +589,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Kasodani Kyouko",
+    name: "Closing Time",
     img: "sLiqEBA.png",
     opts: {
       series: ["TD", "HM", "ISC"],
@@ -597,7 +597,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Miyako Yoshika",
+    name: "Changes",
     img: "6jq6eh6.png",
     opts: {
       series: ["TD", "HM", "ISC"],
@@ -605,7 +605,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Kaku Seiga",
+    name: "In The Aeroplane Over The Sea",
     img: "090hLPL.png",
     opts: {
       series: ["TD", "HM", "ISC"],
@@ -613,7 +613,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Soga no Tojiko",
+    name: "Break Stuff",
     img: "y0UXwFO.png",
     opts: {
       series: ["TD", "HM"],
@@ -621,7 +621,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Mononobe no Futo",
+    name: "Superman",
     img: "WTZ97LE.png",
     opts: {
       series: ["TD", "HM", "ISC", "ULiL", "AoCF"],
@@ -629,7 +629,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Toyosatomimi no Miko",
+    name: "100 years",
     img: "3Xiqd22.png",
     opts: {
       series: ["TD", "HM", "ISC", "ULiL", "AoCF", "VD"],
@@ -637,7 +637,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Futatsuiwa Mamizou",
+    name: "Blurry",
     img: "gMpWdmA.png",
     opts: {
       series: ["TD", "HM", "ISC", "ULiL", "AoCF", "VD"],
@@ -645,7 +645,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Hata no Kokoro",
+    name: "Papercut",
     img: "fxCGmUk.png",
     opts: {
       series: ["book", "HM", "ULiL", "AoCF"],
@@ -653,7 +653,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Wakasagihime",
+    name: "Show Me How To Live",
     img: "brWCLVx.png",
     opts: {
       series: ["DDC", "ISC"],
@@ -661,7 +661,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Sekibanki",
+    name: "Im Just A Kid",
     img: "VAMLiJD.png",
     opts: {
       series: ["DDC", "ISC"],
@@ -669,7 +669,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Imaizumi Kagerou",
+    name: "A Thousand Miles",
     img: "qwwL0bB.png",
     opts: {
       series: ["DDC", "ISC"],
@@ -677,7 +677,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Tsukumo Benben",
+    name: "Cant Stop",
     img: "vWNeMaH.png",
     opts: {
       series: ["DDC", "ISC"],
@@ -685,7 +685,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Tsukumo Yatsuhashi",
+    name: "Mr Brightside",
     img: "EJFQHQN.png",
     opts: {
       series: ["DDC", "ISC"],
@@ -693,7 +693,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Kijin Seija",
+    name: "All These Things Ive Done",
     img: "16RUacj.png",
     opts: {
       series: ["DDC", "ISC"],
@@ -701,7 +701,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Sukuna Shinmyoumaru",
+    name: "Sugar We're Going Down",
     img: "Zl2tN7W.png",
     opts: {
       series: ["DDC", "ISC", "ULiL", "AoCF", "VD"],
@@ -709,7 +709,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Horikawa Raiko",
+    name: "You And Me",
     img: "SLLEccR.png",
     opts: {
       series: ["DDC", "ISC", "AoCF", "VD"],
@@ -717,7 +717,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Usami Sumireko",
+    name: "Handlebars",
     img: "mc7ICW6.png",
     opts: {
       series: ["ULiL", "AoCF", "VD"],
@@ -725,7 +725,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Seiran",
+    name: "What A Catch, Donnie",
     img: "0ra00WG.png",
     opts: {
       series: ["LoLK", "VD"],
@@ -733,7 +733,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Ringo",
+    name: "Guns For Hands",
     img: "xQOsFlZ.png",
     opts: {
       series: ["LoLK", "VD"],
@@ -741,7 +741,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Doremy Sweet",
+    name: "Little Talks",
     img: "rGS7dyn.png",
     opts: {
       series: ["LoLK", "AoCF", "VD"],
@@ -749,7 +749,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Kishin Sagume",
+    name: "Payphone",
     img: "HLT338X.png",
     opts: {
       series: ["LoLK", "VD"],
@@ -757,7 +757,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Clownpiece",
+    name: "Out Of My League",
     img: "9Jje7ZQ.jpg",
     opts: {
       series: ["LoLK", "VD"],
@@ -765,7 +765,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Junko",
+    name: "Little One",
     img: "NsfLZjY.jpg",
     opts: {
       series: ["LoLK", "VD"],
@@ -773,7 +773,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Hecatia Lapislazuli",
+    name: "On Melancholy Hill",
     img: "EH3Ulol.png",
     opts: {
       series: ["LoLK", "VD"],
@@ -781,7 +781,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Eternity Larva",
+    name: "Fireflies",
     img: "ql5KxJH.png",
     opts: {
       series: ["HSiFS", "VD"],
@@ -789,7 +789,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Sakata Nemuno",
+    name: "Poker Face",
     img: "gYFhJ3Y.png",
     opts: {
       series: ["HSiFS", "VD"],
@@ -797,7 +797,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Komano Aunn",
+    name: "Intergalactic",
     img: "wWUStkF.png",
     opts: {
       series: ["HSiFS", "VD"],
@@ -805,7 +805,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Yatadera Narumi",
+    name: "Annie's Song",
     img: "wrPVhAo.png",
     opts: {
       series: ["HSiFS", "VD"],
@@ -813,7 +813,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Nishida Satono",
+    name: "Im Gonna Be (500 Miles)",
     img: "8w9gAy2.png",
     opts: {
       series: ["HSiFS", "VD"],
@@ -821,7 +821,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Teireida Mai",
+    name: "Jump",
     img: "DesAqAC.png",
     opts: {
       series: ["HSiFS", "VD"],
@@ -829,7 +829,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Matara Okina",
+    name: "Start Me Up",
     img: "icWvMyo.png",
     opts: {
       series: ["HSiFS", "VD"],
@@ -837,484 +837,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Yorigami Shion",
-    img: "LenxXR4.png",
-    opts: {
-      series: ["AoCF"],
-      stage: ["st6"]
-    }
-  },
-  {
-    name: "Yorigami Joon",
-    img: "V9OznT1.png",
-    opts: {
-      series: ["AoCF"],
-      stage: ["st6"]
-    }
-  },
-  {
-    name: "Ebisu Eika",
-    img: "Ke3316E.png",
-    opts: {
-      series: ["WBaWC"],
-      stage: ["st1"]
-    }
-  },
-  {
-    name: "Ushizaki Urumi",
-    img: "ru2vIIW.png",
-    opts: {
-      series: ["WBaWC"],
-      stage: ["st2"]
-    }
-  },
-  {
-    name: "Niwatari Kutaka",
-    img: "QTQt0ZL.png",
-    opts: {
-      series: ["WBaWC"],
-      stage: ["st3"]
-    }
-  },
-  {
-    name: "Kicchou Yachie",
-    img: "CzcIMxF.png",
-    opts: {
-      series: ["WBaWC"],
-      stage: ["st4"]
-    }
-  },
-  {
-    name: "Joutouguu Mayumi",
-    img: "GxeziYO.png",
-    opts: {
-      series: ["WBaWC"],
-      stage: ["st5"]
-    }
-  },
-  {
-    name: "Haniyasushin Keiki",
-    img: "Z4jclTi.png",
-    opts: {
-      series: ["WBaWC"],
-      stage: ["st6"]
-    }
-  },
-  {
-    name: "Kurokoma Saki",
-    img: "H2v2GPy.png",
-    opts: {
-      series: ["WBaWC"],
-      stage: ["ex"]
-    }
-  },
-  {
-    name: "Hieda no Akyuu",
-    img: "ogONuLZ.png",
-    opts: {
-      series: ["book"],
-      stage: []
-    }
-  },
-  { 
-    name: "Tokiko",
-    img: "Y4maOc8.png", 
-    opts: {
-      series: ["book"],
-      stage: [],
-      nameless: true
-    } 
-  },
-  {
-    name: "Reisen (Manga)",
-    img: "cWjCo2j.png",
-    opts: {
-      series: ["book"],
-      stage: []
-    }
-  },
-  {
-    name: "Watatsuki no Toyohime",
-    img: "uEBxsEX.png",
-    opts: {
-      series: ["book"],
-      stage: []
-    }
-  },
-  {
-    name: "Watatsuki no Yorihime",
-    img: "Txu2P7S.png",
-    opts: {
-      series: ["book"],
-      stage: []
-    }
-  },
-  {
-    name: "Maribel Hearn",
-    img: "XUI9vPo.png",
-    opts: {
-      series: ["book"],
-      stage: []
-    }
-  },
-  {
-    name: "Usami Renko",
-    img: "1P5EXRt.png",
-    opts: {
-      series: ["book"],
-      stage: []
-    }
-  },
-  {
-    name: "Ibaraki Kasen",
-    img: "dQHnPPe.png",
-    opts: {
-      series: ["book", "ULiL", "AoCF"],
-      stage: ["st5"]
-    }
-  },
-  {
-    name: "Motoori Kosuzu",
-    img: "jEsJJo8.png",
-    opts: {
-      series: ["book"],
-      stage: []
-    }
-  },
-  {
-    name: "Okunoda Miyoi",
-    img: "JZnExhN.png",
-    opts: {
-      series: ["book"],
-      stage: []
-    }
-  },
-  {
-    name: "Hakurei Reimu (PC-98)",
-    img: "IZsGAMS.png",
-    opts: {
-      series: ["HRtP", "SoEW", "PoDD", "LLS", "MS"],
-      stage: ["st4"],
-      pc98: true
-    }
-  },
-  {
-    name: "Shingyoku (Female)",
-    img: "KuPiR2k.png",
-    opts: {
-      series: ["HRtP"],
-      stage: ["st1"]
-    }
-  },
-  {
-    name: "Mima",
-    img: "odH03t2.png",
-    opts: {
-      series: ["HRtP", "SoEW", "PoDD", "MS"],
-      stage: ["st3", "st5", "st6"]
-    }
-  },
-  {
-    name: "Elis",
-    img: "ytnL1xd.png",
-    opts: {
-      series: ["HRtP"],
-      stage: ["st5"]
-    }
-  },
-  {
-    name: "Kikuri",
-    img: "fX2Kqik.png",
-    opts: {
-      series: ["HRtP"],
-      stage: ["st5"]
-    }
-  },
-  {
-    name: "Sariel",
-    img: "Wyc7YFw.png",
-    opts: {
-      series: ["HRtP"],
-      stage: ["st6"]
-    }
-  },
-  {
-    name: "Konngara",
-    img: "dg9jLHv.png",
-    opts: {
-      series: ["HRtP"],
-      stage: ["st6"]
-    }
-  },
-  {
-    name: "Rika",
-    img: "02Xb4pU.png",
-    opts: {
-      series: ["SoEW"],
-      stage: ["st1", "ex"]
-    }
-  },
-  {
-    name: "Meira",
-    img: "p529JgT.png",
-    opts: {
-      series: ["SoEW"],
-      stage: ["st2"]
-    }
-  },
-  {
-    name: "Kirisame Marisa (PC-98)",
-    img: "wxE7cBm.png",
-    opts: {
-      series: ["SoEW", "PoDD", "LLS", "MS"],
-      stage: ["st4"],
-      pc98: true
-    }
-  },
-  { name: "Ellen", img: "3iNNL0c.png", opts: {
-      series: ["PoDD"],
-      stage: []
-    } },
-  {
-    name: "Kotohime",
-    img: "kRSGtpq.png",
-    opts: {
-      series: ["PoDD"],
-      stage: []
-    }
-  },
-  {
-    name: "Kana Anaberal",
-    img: "rBvKMk5.png",
-    opts: {
-      series: ["PoDD"],
-      stage: []
-    }
-  },
-  {
-    name: "Asakura Rikako",
-    img: "VIf5gUK.png",
-    opts: {
-      series: ["PoDD"],
-      stage: []
-    }
-  },
-  {
-    name: "Kitashirakawa Chiyuri",
-    img: "tZFBycy.png",
-    opts: {
-      series: ["PoDD"],
-      stage: ["st5"]
-    }
-  },
-  {
-    name: "Okazaki Yumemi",
-    img: "c9rnG3n.png",
-    opts: {
-      series: ["PoDD"],
-      stage: ["st6"]
-    }
-  },
-  {
-    name: "Ruukoto",
-    img: "dko67SJ.png",
-    opts: {
-      series: ["PoDD"],
-      stage: []
-    }
-  },
-  {
-    name: "Orange",
-    img: "m8wXE5U.png",
-    opts: {
-      series: ["LLS"],
-      stage: ["st1"]
-    }
-  },
-  {
-    name: "Kurumi",
-    img: "0rvq1ph.png",
-    opts: {
-      series: ["LLS"],
-      stage: ["st2"]
-    }
-  },
-  {
-    name: "Elly",
-    img: "iIPftHn.png",
-    opts: {
-      series: ["LLS"],
-      stage: ["st3"]
-    }
-  },
-  {
-    name: "Yuuka (PC-98)",
-    img: "ivUSwxp.png",
-    opts: {
-      series: ["LLS", "MS"],
-      stage: ["st5", "st6"],
-      pc98: true
-    }
-  },
-  {
-    name: "Mugetsu",
-    img: "bYA9E16.png",
-    opts: {
-      series: ["LLS"],
-      stage: ["ex"]
-    }
-  },
-  {
-    name: "Gengetsu",
-    img: "TIOTtV9.png",
-    opts: {
-      series: ["LLS"],
-      stage: ["ex"]
-    }
-  },
-  {
-    name: "Sara",
-    img: "2QUbCrU.png",
-    opts: {
-      series: ["MS"],
-      stage: ["st1"]
-    }
-  },
-  {
-    name: "Louise",
-    img: "nDM5aB6.png",
-    opts: {
-      series: ["MS"],
-      stage: ["st2", "st4"]
-    }
-  },
-  {
-    name: "Alice (PC-98)",
-    img: "KaBuRTW.png",
-    opts: {
-      series: ["MS"],
-      stage: ["st3", "ex"],
-      pc98: true
-    }
-  },
-  {
-    name: "Yuki",
-    img: "FfcmDgp.png",
-    opts: {
-      series: ["MS"],
-      stage: ["st4"]
-    }
-  },
-  { name: "Mai", img: "r6w7TX1.png", opts: {
-      series: ["MS"],
-      stage: ["st4"]
-    } },
-  {
-    name: "Yumeko",
-    img: "PcPqkdO.png",
-    opts: {
-      series: ["MS"],
-      stage: ["st5"]
-    }
-  },
-  {
-    name: "Shinki",
-    img: "gPE95S7.png",
-    opts: {
-      series: ["MS"],
-      stage: ["st6"]
-    }
-  },
-  {
-    name: "Mimi-chan",
-    img: "zBl2zlv.png",
-    opts: {
-      series: ["PoDD"],
-      stage: [],
-      notgirl: true 
-    }
-  },
-  {
-    name: "Unzan",
-    img: "r5eWREh.png",
-    opts: {
-      series: ["UFO", "DS", "HM", "ULiL", "AoCF"],
-      stage: ["st3"],
-      notgirl: true
-    }
-  },
-  {
-    name: "Genji",
-    img: "LoUqOuH.png",
-    opts: {
-      series: ["SoEW", "PoDD", "LLS", "MS"],
-      stage: [],
-      notgirl: true 
-    }
-  },
-  {
-    name: "Shingyoku (Male)",
-    img: "a5uwlgN.png",
-    opts: {
-      series: ["HRtP"],
-      stage: ["st1"],
-      notgirl: true 
-    }
-  },
-  {
-    name: "YuugenMagan",
-    img: "IOW8GdU.png",
-    opts: {
-      series: ["HRtP"],
-      stage: ["st3"],
-      notgirl: true 
-    }
-  },
-  {
-    name: "Evil Eye Sigma",
-    img: "rAFUMwE.png",
-    opts: {
-      series: ["SoEW"],
-      stage: ["ex"],
-      notgirl: true 
-    }
-  },
-  {
-    name: "Great Catfish",
-    img: "BgRi9Oh.png",
-    opts: {
-      series: ["soku", "AoCF"],
-      stage: ["st6"],
-      notgirl: true,
-      nameless: true
-    }
-  },
-  {
-    name: "Morichika Rinnosuke",
-    img: "ITUhsGj.png",
-    opts: {
-      series: ["book", "HM"],
-      stage: [],
-      notgirl: true 
-    }
-  },
-  {
-    name: "Fortune Teller",
-    img: "BYot23O.png",
-    opts: {
-      series: ["book"],
-      stage: [],
-      notgirl: true,
-      nameless: true
-    }
-  },
-  {
-    name: "Hisoutensoku",
-    img: "P4JZ2it.png",
-    opts: {
-      series: ["soku"],
-      stage: [],
-      notgirl: true 
+   
     }
   }
 ];
